@@ -14,4 +14,9 @@ The stopwatch allows users to start, stop, and reset the timer easily with a cle
 - Start, Stop, and Reset buttons  
 - Displays elapsed time in **hours, minutes, and seconds**  
 - Accurate and real-time counting using `setInterval()`  
-- Simple and responsive design 
+- Simple and responsive design
+## project structure 
+  - index.html
+  - style.css
+  - script.jss
+    
